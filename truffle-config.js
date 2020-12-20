@@ -1,5 +1,5 @@
 const HDWalletProvider = require("@truffle/hdwallet-provider");
-const mnemonic = "brain jar media pulp prize east design hard frequent pyramid live special";
+const mnemonic = "removed";
 
 module.exports = {
   /**
